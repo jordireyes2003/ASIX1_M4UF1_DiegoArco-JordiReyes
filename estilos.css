@@ -1,0 +1,73 @@
+/* Regla 1 */
+
+h1 {
+    text-decoration: underline;
+    color: aquamarine;
+    text-align: center;
+}
+
+
+/* Regla 2 */
+
+h3 {
+    padding: 5%;
+    border: 1px solid darkcyan;
+}
+
+
+/* Regla 3 */
+
+h3 {
+    border-radius: 5px;
+}
+
+
+/* Regla 4 */
+
+p {
+    color: darkslategrey;
+}
+
+
+/* Regla 5 */
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+
+/* Regla 6 */
+
+td,
+th {
+    border: 3px solid #ddd;
+    text-align: left;
+    background-color: white;
+}
+
+
+/* Regla 7 */
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+/* Regla 8 */
+
+img {
+    width: 110px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid aquamarine;
+}
+
+
+/* Regla 9 */
+
+body {
+    background-color: azure;
+    font-family: 'Roboto Condensed', sans-serif;
+}
